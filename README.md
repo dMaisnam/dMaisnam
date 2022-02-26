@@ -1,6 +1,6 @@
 👋 Hi, I’m **Deba Maisnam**. I am a **Computer Science and Engineering** graduate 🎓 from [NIT, Manipur](https://www.nitmanipur.ac.in/) 🔗 currently working as a **Web Engineer/Developer** at a startup in India.
 
-👀 I’m interested in **Fullstack Web Developer** positions.
+👀 I’m interested in **Fullstack Web Developer** positions. I am also learning native app development for mobile and Windows.
 
 ✅ My projects -
 
@@ -8,7 +8,7 @@
   - [x] Powered by `Django`, `NextJS`, `Docker`, `GitLab CI/CD`, `Terraform`, `AWS ECS`
   - [x] Team of 2 developers including myself
 - **Dr. Vidyabati Devi** portfolio website - [vidyarajkumari.com](http://www.vidyarajkumari.com) 🔗
-  - [x] Powered by `Django`, `NextJS`, `GitHub`, `AWS EC2`
+  - [x] Powered by `Django`, `React JS`, `GitHub`, `AWS EC2`
   - [x] Team of 2 developers including myself
 - **Falcon Aviation and Hospitality Institute** website - [falconinstitute.in](http://www.falconinstitute.in/) 🔗
   - [x] Built with HTML, Tailwind CSS and JS
