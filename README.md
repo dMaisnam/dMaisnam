@@ -17,7 +17,8 @@
 
 🔨 Projects under development
 - A CMS service for publishers
-- An e-commerce webapp
+- ~~An e-commerce webapp~~ (temporarily delayed)
+- A cross platform mobile app for a local transportation union
 
 ⚡ I’m always open to collaborations on web projects and suggestions to further my skills in software development.
 
