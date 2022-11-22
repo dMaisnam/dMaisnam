@@ -25,8 +25,7 @@
   - :computer: Software Developer
   - :earth_asia: Manipur, India
   - 👨‍🎓 Graduated (2019) - :link: [NIT Manipur](https://www.nitmanipur.ac.in/)
-  - :gear: Currently building **Arcanaa**
-  - :books: Learning **native app development** for mobile devices and Windows
+  - :gear: Currently building [**Arcanaa Technologies**](https://www.arcanaa.com/) (Co Founder)
   - :eyes: Interested in science & tech, coding, music
   - :heart: Open to collaborations and suggestions to improve my skills
 </section>
@@ -38,13 +37,15 @@
   </h2>
 
   - <b style="font-size: 17px;">Imphal Free Press</b> - :link: [ifp.co.in](https://www.ifp.co.in)
-    :heavy_check_mark: Django, NextJS, Docker, GitLab CI/CD, Terraform, AWS ECS
+    :heavy_check_mark: Django, Next, Tailwind, Docker, GitLab CI/CD, Terraform, AWS ECS
     :heavy_check_mark: Team of 2 including myself
   - <b style="font-size: 17px;">Dr. Vidyabati Devi portfolio</b> - :link: [vidyarajkumari.com](http://www.vidyarajkumari.com)
-    :heavy_check_mark: Django, React JS, GitHub, AWS EC2
+    :heavy_check_mark: Django, React, Tailwind, GitHub, AWS EC2
     :heavy_check_mark: Team of 2 including myself
   - <b style="font-size: 17px;">Falcon Aviation and Hospitality Institute</b> - :link: [falconinstitute.in](https://www.falconinstitute.in/)
-    :heavy_check_mark: Built with HTML, Tailwind CSS and JS
+    :heavy_check_mark: Astro, Tailwind CSS, Gitlab
+  - <b style="font-size: 17px;">Edutruth KOTA Coaching Classes</b> - :link: [edutruth.in](https://www.edutruth.in/)
+    :heavy_check_mark: Next (static), Tailwind CSS, Gitlab
   - <b style="font-size: 17px;">Performance analysis of a feature reduction based intrusion detection system with SVM & ensemble learning algorithms</b>
     :heavy_check_mark: Post graduation project (2019)
 </section>
