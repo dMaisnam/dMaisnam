@@ -1,7 +1,7 @@
 # Hi :wave:, I am Dev
 
 <!-- Showcase -->
-<section align="left" style="margin: 16px 0">
+<section align-left style="margin: 16px 0">
   <a href="https://stackoverflow.com/users/11457595/deba-m">
     <img 
       src="https://img.shields.io/stackexchange/stackoverflow/r/11457595?color=orange&label=reputation&logo=stackoverflow"
@@ -17,7 +17,7 @@
 </section>
 
 <!-- About Me -->
-<section align="left" style="margin: 16px 0">
+<section align-left style="margin: 16px 0">
   <h2 style="margin: 4px 0">
     ABOUT ME
   </h2>
@@ -25,32 +25,32 @@
   - :computer: Software Developer
   - :earth_asia: Manipur, India
   - 👨‍🎓 Graduated (2019) - :link: [NIT Manipur](https://www.nitmanipur.ac.in/)
-  - :gear: Currently building **Arcanaa**
+  - :gear: Currently building **Agobyte Technologies Private Limited**
   - :books: Learning **native app development** for mobile devices and Windows
   - :eyes: Interested in science & tech, coding, music
   - :heart: Open to collaborations and suggestions to improve my skills
 </section>
 
 <!-- Projects -->
-<section align="left" style="margin: 16px 0;">
+<!-- <section align-left style="margin: 16px 0;">
   <h2 style="margin: 4px 0">
     PROJECTS
   </h2>
 
   - <b style="font-size: 17px;">Imphal Free Press</b> - :link: [ifp.co.in](https://www.ifp.co.in)
-    :heavy_check_mark: Django, NextJS, Docker, GitLab CI/CD, Terraform, AWS ECS
-    :heavy_check_mark: Team of 2 including myself
+    - Django, NextJS, Docker, GitLab CI/CD, Terraform, AWS ECS
+    - Team of 2 including myself
   - <b style="font-size: 17px;">Dr. Vidyabati Devi portfolio</b> - :link: [vidyarajkumari.com](http://www.vidyarajkumari.com)
-    :heavy_check_mark: Django, React JS, GitHub, AWS EC2
-    :heavy_check_mark: Team of 2 including myself
+    - Django, React JS, GitHub, AWS EC2
+    - Team of 2 including myself
   - <b style="font-size: 17px;">Falcon Aviation and Hospitality Institute</b> - :link: [falconinstitute.in](https://www.falconinstitute.in/)
-    :heavy_check_mark: Built with HTML, Tailwind CSS and JS
+    - Built with HTML, Tailwind CSS and JS
   - <b style="font-size: 17px;">Performance analysis of a feature reduction based intrusion detection system with SVM & ensemble learning algorithms</b>
-    :heavy_check_mark: Post graduation project (2019)
-</section>
+    - Post graduation project (2019)
+</section> -->
 
 <!-- Tech Stack -->
-<section align="left" style="margin: 16px 0">
+<section align-left style="margin: 16px 0">
   <h2 style="margin: 4px 0">
     TECH STACK
   </h2>
@@ -61,6 +61,7 @@
     <img height="40" src="images/reactjs.svg" alt="React" /> 
     <img height="40" src="images/sveltejs.svg" alt="Svelte" /> 
     <img height="40" src="images/postgres.svg" alt="Postgres" />
+    <img height="40" src="images/php.svg" alt="PHP" /> 
     <img height="40" src="images/python.svg" alt="Python" /> 
     <img height="40" src="images/django.svg" alt="Django" /> 
     <img height="40" src="images/docker.svg" alt="Docker" /> 
@@ -71,7 +72,7 @@
 </section>
 
 <!-- Socials -->
-<section align="left" style="margin: 16px 0">
+<section align-left style="margin: 16px 0">
   <h2 style="margin: 4px 0">
     CONNECT
   </h2>
