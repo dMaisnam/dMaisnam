@@ -22,11 +22,11 @@
     ABOUT ME
   </h2>
 
-  - :computer: Software Developer
+  - :computer: Software Engineer
   - :earth_asia: Manipur, India
   - 👨‍🎓 Graduated (2019) - :link: [NIT Manipur](https://www.nitmanipur.ac.in/)
-  - :gear: Currently building **Agobyte Technologies Private Limited**
-  - :books: Learning **native app development** for mobile devices and Windows
+  - :gear: Currently building :link: [Agobyte Technologies Private Limited](https://www.agobyte.com)
+  - :books: Learning **System Design**, **DevOps**
   - :eyes: Interested in science & tech, coding, music
   - :heart: Open to collaborations and suggestions to improve my skills
 </section>
@@ -55,15 +55,23 @@
     TECH STACK
   </h2>
   <div>
-    <img height="40" src="images/js.svg" alt="Javacript" /> 
+    <h5>Language</h5>
     <img height="40" src="images/ts.svg" alt="Typescript" /> 
-    <img height="40" src="images/nodejs.svg" alt="Node" /> 
-    <img height="40" src="images/reactjs.svg" alt="React" /> 
-    <img height="40" src="images/sveltejs.svg" alt="Svelte" /> 
-    <img height="40" src="images/postgres.svg" alt="Postgres" />
+    <img height="40" src="images/js.svg" alt="Javacript" /> 
+    <img height="40" src="images/csharp.svg" alt="C#" /> 
     <img height="40" src="images/php.svg" alt="PHP" /> 
     <img height="40" src="images/python.svg" alt="Python" /> 
+    <h5>Database</h5>
+    <img height="40" src="images/postgres.svg" alt="Postgres" />
+    <h5>Framework</h5>
+    <img height="40" src="images/nodejs.svg" alt="Node" /> 
+    <img height="40" src="images/dotnet.svg" alt="DotNet" /> 
+    <img height="40" src="images/laravel.svg" alt="Laravel" /> 
     <img height="40" src="images/django.svg" alt="Django" /> 
+    <img height="40" src="images/reactjs.svg" alt="React" /> 
+    <img height="40" src="images/sveltejs.svg" alt="Svelte" /> 
+    <img height="40" src="images/astro.svg" alt="Astro" /> 
+    <h5>Tools</h5>
     <img height="40" src="images/docker.svg" alt="Docker" /> 
     <img height="40" src="images/git.svg" alt="Git" /> 
     <img height="40" src="images/aws.svg" alt="AWS" /> 
